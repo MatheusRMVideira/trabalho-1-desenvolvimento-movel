@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pokemon Wiki</string>
+    <string name="menu_title">Pokemon Wiki</string>
+    <string name="button_search">Search</string>
+    <string name="network_error">Network error. Try again later!</string>
+    <string name="ok">Ok</string>
+    <string name="present_in">Present in %d games</string>
+    <string name="abilities">Abilities</string>
+    <string name="moves">Moves</string>
+    <string name="pokemon">Pokemon</string>
+    <string name="type_here">Type here</string>
+    <string name="pokemon_not_found">Pokemon not found</string>
+    <string name="history">History</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>

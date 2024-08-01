@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pokemon Wiki</string>
+    <string name="menu_title">Pokemon Wiki</string>
+    <string name="button_search">Procurar</string>
+    <string name="network_error">Sem conex�o! Tente novamente mais tarde.</string>
+    <string name="ok">Ok</string>
+    <string name="present_in">Presente em %d jogos</string>
+    <string name="abilities">Habilidades</string>
+    <string name="moves">Movimentos</string>
+    <string name="pokemon">Pokemon</string>
+    <string name="type_here">Digite aqui</string>
+    <string name="pokemon_not_found">Pokemon n�o encontrado</string>
+    <string name="history">Hist�rico</string>
+</resources>
